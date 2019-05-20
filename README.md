@@ -1,5 +1,6 @@
 # portfolio_Plante
-//
+
+
 Objectif du projet:
 
 Ce projet a pour but de créer un objet connecté stockant des données de capteurs dans une base de données .
@@ -13,7 +14,6 @@ HTML/CSS/Javascript pour l'interface client.
 
 //
 
-//
 
 Méthode d'utilisation :
 Pour utiliser ce projet il suffit de télécharger l'ensemble des fichier via le bouton "Clone or download".
