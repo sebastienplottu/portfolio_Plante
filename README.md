@@ -31,6 +31,8 @@ Ce GIT se compose de différents dossiers et fichiers:
 
 - Un dossier BDD qui contient la base de données fait en MySQL à l'aide de phpMyAdmin
 
+- Un dossier qui comprend les codes pour faire fonctionner les capteurs ainsi que faire communiquer le raspberry avec le module wifi.
+
 - Un README pour décrire le projet
 
 
