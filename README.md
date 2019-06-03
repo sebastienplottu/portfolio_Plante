@@ -3,21 +3,27 @@
 
 Objectif du projet:
 
--Ce projet a pour but de créer un objet connecté stockant des données de capteurs dans une base de données .
+- Ce projet a pour but de créer un objet connecté pour aider des utilisateurs à s'occuper de plante.
 
--Cette base de données est disponible sur un site web en y accédant par une interface utilisateurs.
+- Les données des capteurs seront stockées dans une base de données .
+
+- Cette base de données est disponible sur un site web en y accédant par une interface utilisateur.
 
 //
 
 Ce GIT se compose de différents dossiers et fichiers:
+
 - Un dossier Php qui contient :
---- Un fichier index.php pour la page d'acceuil
+--- Un fichier index.php pour la page d'accueil
+
 --- Un fichier plante.php qui affiche les données de la base de données
+
 --- Un fichier user.php pour permettre de rentrer des valeurs dans la base de données(non fonctionnel)
 
 - Un dossier Html qui contient :
---- Un fichier login.html qui permet la connexion de l utilisateur (non fonctionnel)
---- Un fichier signup.html qui permet l'inscription de l utilisateur (non fonctionnel)
+--- Un fichier login.html qui permet la connexion de l'utilisateur (non fonctionnel)
+
+--- Un fichier signup.html qui permet l'inscription de l'utilisateur (non fonctionnel)
 
 - Un dossier js qui contients des fichiers javascript.
 
@@ -28,16 +34,7 @@ Ce GIT se compose de différents dossiers et fichiers:
 - Un README pour décrire le projet
 
 
-
-
-Application et langages utilisé:
-
-Les fichiers sont rangé par types:
-
--La page d'acceuil se trouve dans le dossier php sous le nom d'"index.php"
-
--HTML/CSS/Javascript pour l'interface client.
-
+//
 
 
 //
@@ -54,10 +51,16 @@ Méthode d'utilisation :
 -Une fois le fichier ouvert, ouvré un terminal pour lancer votre serveur en local via la commande "php -S localhost:(un port adéquat ex:8000)
 
 -Lancé par la suite votre navigateur internet et rentré l'URL pour accéder a la page d'accueil.
+
 exemple URL :(localhost:8000)
 
 -Pour accéder au différentes pages , navigué simplement via les boutons sinon vous pouvez toujours accéder aux pages via les URL.
+
 Exemple : localhost:8000/login.html ou localhost:8000/plante.php
+
+//
+
+
 //
 
 Version des logiciels utilisés :
