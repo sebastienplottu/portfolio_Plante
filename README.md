@@ -42,19 +42,19 @@ Ce GIT se compose de différents dossiers et fichiers:
 
 Méthode d'utilisation :
 
--Pour utiliser ce projet il suffit de télécharger l'ensemble des fichier via le bouton "Clone or download".
+-Pour utiliser ce projet il suffit de télécharger l'ensemble des fichiers via le bouton "Clone or download".
 
 -Il vous faudra décompresser le fichier pour pouvoir l'utiliser.
 
--Ensuite ouvré le fichier "index.php" via un logiciel qui supporte les fichier php comme PhpStrom par exemple pour accéder au code.
+-Ensuite ouvrez le fichier "index.php" via un logiciel qui supporte les fichier php comme PhpStrom par exemple pour accéder au code.
 
 -Une fois le fichier ouvert, ouvré un terminal pour lancer votre serveur en local via la commande "php -S localhost:(un port adéquat ex:8000)
 
--Lancé par la suite votre navigateur internet et rentré l'URL pour accéder a la page d'accueil.
+-Lancé par la suite votre navigateur internet et rentré l'URL pour accéder à la page d'accueil.
 
 exemple URL :(localhost:8000)
 
--Pour accéder au différentes pages , navigué simplement via les boutons sinon vous pouvez toujours accéder aux pages via les URL.
+-Pour accéder aux différentes pages , naviguez simplement via les boutons sinon vous pouvez toujours accéder aux pages via les URL.
 
 Exemple : localhost:8000/login.html ou localhost:8000/plante.php
 
@@ -71,7 +71,7 @@ Brackets Version : 1.13 édition 1.13.1-17699 (windows-release-1.13.1 fc2ebbeea)
 
 PhpStorm Version : 2019.1.1
 
-
+Arduino Version : 1.8.9
 
 
 
