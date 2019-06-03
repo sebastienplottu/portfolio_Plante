@@ -9,11 +9,36 @@ Objectif du projet:
 
 //
 
+Ce GIT se compose de différents dossiers et fichiers:
+- Un dossier Php qui contient :
+--- Un fichier index.php pour la page d'acceuil
+--- Un fichier plante.php qui affiche les données de la base de données
+--- Un fichier user.php pour permettre de rentrer des valeurs dans la base de données(non fonctionnel)
+
+- Un dossier Html qui contient :
+--- Un fichier login.html qui permet la connexion de l utilisateur (non fonctionnel)
+--- Un fichier signup.html qui permet l'inscription de l utilisateur (non fonctionnel)
+
+- Un dossier js qui contients des fichiers javascript.
+
+- Un dossier css pour le css des pages.
+
+- Un dossier BDD qui contient la base de données fait en MySQL à l'aide de phpMyAdmin
+
+- Un README pour décrire le projet
+
+
+
+
 Application et langages utilisé:
+
+Les fichiers sont rangé par types:
+
+-La page d'acceuil se trouve dans le dossier php sous le nom d'"index.php"
 
 -HTML/CSS/Javascript pour l'interface client.
 
--(Bientôt)PHP pour le relié à la base de données en SQL sur PstgrSQL.
+
 
 //
 
@@ -22,13 +47,34 @@ Méthode d'utilisation :
 
 -Pour utiliser ce projet il suffit de télécharger l'ensemble des fichier via le bouton "Clone or download".
 
--Ensuite lancer la page "index.html" en double cliquant dessus pour arriver sur la page d'acceuil.
+-Il vous faudra décompresser le fichier pour pouvoir l'utiliser.
 
--Votre navigateur va donc interpréter le code et le retranscrire pour vous l'afficher.
+-Ensuite ouvré le fichier "index.php" via un logiciel qui supporte les fichier php comme PhpStrom par exemple pour accéder au code.
 
--Vous pouvez naviguez entre les pages via les URL si besoin.
+-Une fois le fichier ouvert, ouvré un terminal pour lancer votre serveur en local via la commande "php -S localhost:(un port adéquat ex:8000)
 
+-Lancé par la suite votre navigateur internet et rentré l'URL pour accéder a la page d'accueil.
+exemple URL :(localhost:8000)
+
+-Pour accéder au différentes pages , navigué simplement via les boutons sinon vous pouvez toujours accéder aux pages via les URL.
+Exemple : localhost:8000/login.html ou localhost:8000/plante.php
 //
+
+Version des logiciels utilisés :
+
+phpMyAdmin Version : 4.8.3
+
+Brackets Version : 1.13 édition 1.13.1-17699 (windows-release-1.13.1 fc2ebbeea) 
+
+PhpStorm Version : 2019.1.1
+
+
+
+
+
+
+
+
 
 
 
