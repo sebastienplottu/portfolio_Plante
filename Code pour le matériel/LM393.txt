@@ -1,0 +1,29 @@
+
+//Code pour le capteur LM393 de luminosité
+
+void setup()
+
+{
+
+Serial.begin(9600);
+
+}
+
+void loop()
+
+{
+
+unsigned int AnalogValue;
+
+AnalogValue = analogRead(A0);
+int value = 0;
+
+value = map(AnalogValue, 1023, 38, 0, 100);
+
+Serial.print("Luminosité : ");
+Serial.print(value);
+Serial.print(" %");
+delay(1000);
+
+}
+
