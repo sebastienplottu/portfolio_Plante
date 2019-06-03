@@ -29,7 +29,7 @@ Ce GIT se compose de différents dossiers et fichiers:
 
 - Un dossier css pour le css des pages.
 
-- Un dossier BDD qui contient la base de données fait en MySQL à l'aide de phpMyAdmin
+- Un dossier BDD qui contient la base de données fait en MySQL à l'aide de phpMyAdmin ainsi qu'un MCD Merise.
 
 - Un dossier qui comprend les codes pour faire fonctionner les capteurs ainsi que faire communiquer le raspberry avec le module wifi.
 
